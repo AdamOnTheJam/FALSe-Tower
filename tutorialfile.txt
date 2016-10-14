@@ -6,3 +6,4 @@ How to Github:
 4,1. enter your github username
 4,2. enter your Github password
 5. If it says "Branch master set up to track remote branch master origin", "master -> master" and "compressing objects:100%" you succesfully pushed the file.
+6. git pull origin master <--- "Pulling" or basicaly updating your local file with what's in the shared file.
