@@ -1,0 +1,8 @@
+How to Github:
+1. git add filename here <--- "selects" the file you want to push.
+2. git commit -m "Comments on updated file"
+3. git log shows what has been commited localy on your pc
+4. git push -u origin master <--- pushes the file into the shared map
+4,1. enter your github username
+4,2. enter your Github password
+5. If it says "Branch master set up to track remote branch master origin", "master -> master" and "compressing objects:100%" you succesfully pushed the file.
